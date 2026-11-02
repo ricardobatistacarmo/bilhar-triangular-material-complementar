@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Se utilizar estes materiais, cite o artigo associado."
+title: "Bilhar triangular irracional: código e sequência didática"
+version: 1.0.0
+authors:
+  - family-names: "Araújo Freire"
+    given-names: "Winandy"
+  - family-names: "Lima Brandão Caetano"
+    given-names: "Ainoã"
+  - family-names: "Farias Pozzi"
+    given-names: "Beatriz"
+  - family-names: "Batista do Carmo"
+    given-names: "Ricardo"
+date-released: 2026-11-02
+repository-code: "https://github.com/USUARIO/NOME-DO-REPOSITORIO"
+license: MIT
