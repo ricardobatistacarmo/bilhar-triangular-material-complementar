@@ -1,18 +1,23 @@
-# bilhar-triangular-material-complementar
-Código-fonte e planos de aula da proposta didática sobre bilhares triangulares irracionais
-├── README.md
-├── LICENSE-CODE
-├── LICENSE-MATERIAIS
-├── CITATION.cff
-│
-├── codigo/
-│   ├── bilhar_triangular.c
-│   ├── README.md
-│   └── exemplos/
-│
-└── planos_de_aula/
-    ├── Plano_de_Aula_1_Bilhar_Triangular.xlsx
-    ├── Plano_de_Aula_2_Movimento_Reflexao_Especular.xlsx
-    ├── Plano_de_Aula_3_Modelagem_Simulacao.xlsx
-    ├── Plano_de_Aula_4_Montagem_Optica.xlsx
-    └── Plano_de_Aula_5_Analise_Trajetorias.xlsx
+# Bilhar triangular irracional: materiais complementares
+
+Este repositório reúne os materiais complementares do artigo
+"Simulação computacional e experimentação óptica em um bilhar triangular: uma proposta interdisciplinar para o ensino de Física e Matemática", submetido à Revista Brasileira de Ensino de Física.
+
+## Conteúdo
+
+- Código-fonte em linguagem C utilizado nas simulações.
+- Planos completos das cinco aulas da sequência didática interdisciplinar.
+
+## Sequência didática
+
+Os planos de aula estão disponíveis na pasta `planos_de_aula`. A proposta
+compreende cinco aulas de duas horas destinadas ao Ensino Médio.
+
+## Autores
+
+Winandy Araújo Freire; Ainoã Lima Brandão Caetano; Beatriz Farias Pozzi; Ricardo Batista do Carmo.
+
+## Licenças
+
+O código-fonte é disponibilizado sob a licença MIT. Os planos de aula são
+disponibilizados sob a licença Creative Commons Atribuição 4.0 Internacional.
