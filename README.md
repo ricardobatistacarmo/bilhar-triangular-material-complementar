@@ -10,12 +10,11 @@ Este repositório reúne os materiais complementares do artigo
 
 ## Sequência didática
 
-Os planos de aula estão disponíveis na pasta `planos_de_aula`. A proposta
-compreende cinco aulas de duas horas destinadas ao Ensino Médio.
+Os planos de aula compreendem cinco aulas de duas horas destinadas ao Ensino Médio.
 
 ## Autores
 
-Winandy Araújo Freire; Ainoã Lima Brandão Caetano; Beatriz Farias Pozzi; Ricardo Batista do Carmo.
+Winandy Araújo Freire; Ainoã Lima Brandão Caetano; Beatriz Farias Pozzi; Ricardo Batista do Carmo (IFAL - Campus Piranhas).
 
 ## Licenças
 
